@@ -1,0 +1,5 @@
+{
+  "name": "Trekky Bird",
+  "description": "A Star Trek themed 3D Flappy Bird clone using Three.js and React.",
+  "requestFramePermissions": []
+}
